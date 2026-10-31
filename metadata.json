@@ -1,0 +1,6 @@
+{
+  "name": "SAHIN AI",
+  "description": "A modern conversational AI assistant featuring real-time streaming chat, multimodal vision image analysis, live Google Search grounding, and AI image synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
